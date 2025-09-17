@@ -1,11 +1,10 @@
-# Weather-App
+# Weather-App 
+
+# Features
   Show the current weather for a given location
   Provides 3-, 5-, or 7- day forecasts
   Provides a unique user experience with custom cat-themed artwork throughout
   Useful for learning Java, GUI development, and API integration
-
-# Features
-  This project is useful because it
 
 # Getting Started
   1. Clone the repository: git clone <url>
