@@ -5,16 +5,16 @@
   Useful for learning Java, GUI development, and API integration
 
 # Features
-  # This project is useful because it
+  This project is useful because it
 
 # Getting Started
-  # 1. Clone the repository: git clone <url>
-  # 2. Run the project using Maven: mvn clean compile exec:java 
+  1. Clone the repository: git clone <url>
+  2. Run the project using Maven: mvn clean compile exec:java 
 
 # Technology Used
-  # Java
-  # IntelliJ
-  # Maven
+  Java
+  IntelliJ
+  Maven
 
 # Author
-  # Ashley Daly
+  Ashley Daly
